@@ -7,7 +7,9 @@
 5. click the link below and explore the app
 6. https://whatsappanalyzerasu.herokuapp.com/
 
+<h1>how to export whats app chat</h1>
+1. Open the individual or group chat.
+2. Tap More options > More > Export chat.
+3. Choose whether to export with media or without media.(without media recomonded)
 
-- Open the individual or group chat.
-- Tap More options > More > Export chat.
-- Choose whether to export with media or without media.(without media recomonded)
+
