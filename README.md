@@ -5,4 +5,4 @@
 3. and analyze as per your requirements
 4. you can analyze both group chats and a perticular one
 5. click the link below and explore the app
- https://whatsappanalyzerasu.herokuapp.com/
+6. https://whatsappanalyzerasu.herokuapp.com/
