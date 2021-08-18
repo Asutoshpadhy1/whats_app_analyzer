@@ -6,3 +6,8 @@
 4. you can analyze both group chats and a perticular one
 5. click the link below and explore the app
 6. https://whatsappanalyzerasu.herokuapp.com/
+
+
+- Open the individual or group chat.
+- Tap More options > More > Export chat.
+- Choose whether to export with media or without media.(without media recomonded)
